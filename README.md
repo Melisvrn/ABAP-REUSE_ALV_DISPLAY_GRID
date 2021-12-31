@@ -4,24 +4,31 @@ Belirli kurallar eşliğinde tablolardan alınan veriler REUSE_ALV_DISPLAY_GRID 
 
 ## Görüntülenmek İstenen ALV Özellikleri:
 
-1-Select Screen Ekranında eğer malzeme numarası alanı boş ise bir uyarı popup açılacak.
+- Select Screen Ekranında eğer malzeme numarası alanı boş ise bir uyarı popup açılacak.
 ' UYARI !! Malzeme Numarası Girilmeden Malzeme Görüntülenemez '
 
-2- ALV'ye çekilen alanlar SPEME alanı baz alınarak büyükten küçüğe sıralanacak.
+- ALV'ye çekilen alanlar SPEME alanı baz alınarak büyükten küçüğe sıralanacak.
 
-3-Tahditsiz stoktan bloke stok çıkarılacak ve sonuç internal tablodaki sonuç alanına yazılacak.
+- Tahditsiz stoktan bloke stok çıkarılacak ve sonuç internal tablodaki sonuç alanına yazılacak.
 
-4-Sonuç alanı gizli olacak ve kullanıcı istediği zaman ALV'de ki düzenle seçeneğinden sonuç alanını alvde görüntüleyebilecek.
+- Sonuç alanı gizli olacak ve kullanıcı istediği zaman ALV'de ki düzenle seçeneğinden sonuç alanını alvde görüntüleyebilecek.
 
-5-Eğer tahditsiz stoktan bloke stok çıkarıldığında sonuç 0 ve 0 dan küçük ise icon alanında kırmızı trafik lambası yanacak ama sonuç 0 dan büyük ise yeşil trafik lambası yanacak.
+- Eğer tahditsiz stoktan bloke stok çıkarıldığında sonuç 0 ve 0 dan küçük ise icon alanında kırmızı trafik lambası yanacak ama sonuç 0 dan büyük ise yeşil trafik lambası yanacak.
 
 ## Kullanılacak Tablolar:
 
-1-MARA
+:point_right: MARA
 
-2-MARD
+:point_right: MARD
 
-3-MARC
+:point_right: MARC
+
+![Ekran Görüntüsü (9)](https://user-images.githubusercontent.com/55049795/147818706-43f7c412-f4d2-424a-ae66-719e80de3df4.png)
+
+![Ekran Görüntüsü (11)](https://user-images.githubusercontent.com/55049795/147818803-325f3aa8-5e6f-4208-bb86-df84766ec1b7.png)
+
+
+
 
 
 
