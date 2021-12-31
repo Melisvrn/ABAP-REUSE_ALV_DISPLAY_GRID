@@ -23,9 +23,14 @@ Belirli kurallar eşliğinde tablolardan alınan veriler REUSE_ALV_DISPLAY_GRID 
 
 :point_right: MARC
 
-![Ekran Görüntüsü (9)](https://user-images.githubusercontent.com/55049795/147818706-43f7c412-f4d2-424a-ae66-719e80de3df4.png)
+## Malzeme Sorgulama Ekranı:
 
-![Ekran Görüntüsü (11)](https://user-images.githubusercontent.com/55049795/147818803-325f3aa8-5e6f-4208-bb86-df84766ec1b7.png)
+<img src="https://user-images.githubusercontent.com/55049795/147818706-43f7c412-f4d2-424a-ae66-719e80de3df4.png" width="700" >
+
+## Sorgulanan Malzeme Bilgileri:
+
+<img src="https://user-images.githubusercontent.com/55049795/147818803-325f3aa8-5e6f-4208-bb86-df84766ec1b7.png" width="700">
+
 
 
 
