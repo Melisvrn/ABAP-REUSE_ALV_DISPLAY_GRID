@@ -184,7 +184,7 @@ FORM FIELDCATALOG .
 
 *  fieldcatalog-fieldname = Alan Adı.
 *  fieldcatalog-seltext_m = Alana verilen medium isim
-*  fieldcatalog-col_pos  = Alanın kaçınca sütunda yer alacağı
+*  fieldcatalog-col_pos  = Alan kaçınca sütunda yer alacak
 *  fieldcatalog-no_out = 'X'. = Görüntüde alanı gizler ama kullanıcı istediği zaman bu alanı görüntüleyebilir.
 
 ENDFORM.
